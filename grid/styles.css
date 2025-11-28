@@ -1,8 +1,0 @@
-.inverted {
-	clip-path: url("#clip");
-	width: 500px;
-	height: 500px;
-	background-color: #513D34;
-	aspect-ratio: 1 / 1;
-}
-
